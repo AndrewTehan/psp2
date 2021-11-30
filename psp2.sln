@@ -17,9 +17,3 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C1E0E60E-09BC-4D7A-88CB-B3B2D5E3496A}
-	EndGlobalSection
-EndGlobal
